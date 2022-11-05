@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#BACK_BUTTON{
+background-color: blue;
+color: white
+;
+}
+#HEADER{
+color: blue;
+}
+canvas{
+    background-color: black;
+}
+a{
+    background-color: blue;
+    color: white
+}

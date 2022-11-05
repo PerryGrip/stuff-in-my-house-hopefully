@@ -1,0 +1,43 @@
+body{
+    background-color: darkolivegreen;
+    text-align: center;
+}
+
+#dacenter{
+   margin-top: 200px;
+}
+#fan{
+    width: 300px;
+    border-radius: 15px;
+    background-color: darkgreen;
+    color: white;
+}
+#chair{
+    width: 300px;
+    border-radius: 15px;
+    background-color: darkgreen;
+    color: white;
+}
+#couch{
+    width: 300px;
+    border-radius: 15px;
+    background-color: darkgreen;
+    color: white;
+}
+#wall{
+    width: 300px;
+    border-radius: 15px;
+    background-color: darkgreen;
+    color: white;
+}
+#light{
+    width: 300px;
+    border-radius: 15px;
+    background-color: darkgreen;
+    color: white;
+}
+a{
+    background-color: rgb(94, 55, 10);
+    width: 200px;
+   
+}
